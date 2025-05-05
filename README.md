@@ -1,0 +1,1 @@
+# itse2309---database-programming-oracle-lab-2---basic-sql-select-statements-solved
